@@ -1,0 +1,31 @@
+{
+  "name": "rankea-refaccionarias",
+  "version": "1.0.0",
+  "description": "Directorio nacional de refaccionarias. MVP inicial con Querétaro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node scripts/test.mjs",
+    "build": "next build",
+    "dev": "next dev",
+    "verify": "node scripts/verify.mjs",
+    "audit:dedupe": "node scripts/audit-dedupe-businesses.mjs",
+    "validate:urls": "node scripts/validate-websites.mjs data_top100.csv data_top100_url_validated.csv url_validation_report.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "csv-parse": "7.0.2",
+    "lucide-react": "1.33.0",
+    "next": "16.3.2",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "26.2.0",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.4",
+    "typescript": "7.0.2"
+  }
+}

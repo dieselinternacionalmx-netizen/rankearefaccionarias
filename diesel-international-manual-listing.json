@@ -1,0 +1,119 @@
+{
+  "type": "manual_featured_listing",
+  "source": [
+    "commander_provided",
+    "https://dieselinternacional.com/"
+  ],
+  "business": {
+    "public_name": "Diesel International",
+    "category_public": "Refacciones diesel y camión",
+    "category_seo": "Refaccionaria diesel en San Nicolás de los Garza",
+    "schema_type": "AutoPartsStore",
+    "estado": "Nuevo León",
+    "estado_slug": "nuevo-leon",
+    "municipio": "San Nicolás de los Garza",
+    "municipio_slug": "san-nicolas-de-los-garza",
+    "business_slug": "diesel-international-san-nicolas-de-los-garza",
+    "url_path": "/nuevo-leon/san-nicolas-de-los-garza/diesel-international-san-nicolas-de-los-garza/",
+    "website": "https://dieselinternacional.com/",
+    "email": [
+      "ventas@dieselinternacional.com",
+      "dieselinternational@hotmail.com",
+      "dieselinternational.mostrador@gmail.com"
+    ],
+    "featured": true,
+    "manual_override": true,
+    "noindex": false,
+    "sitemap_include": true
+  },
+  "branches": [
+    {
+      "branch_name": "Sucursal Las Puentes",
+      "address_full": "Cordillera de los Andes #403, Col Las Puentes 3er Sector, San Nicolás de los Garza, Nuevo León. C.P. 66460",
+      "street": "Cordillera de los Andes",
+      "number_ext": "403",
+      "colonia": "Las Puentes 3er Sector",
+      "city": "San Nicolás de los Garza",
+      "state": "Nuevo León",
+      "postal_code": "66460",
+      "phone": [
+        "8180309000",
+        "8184795313",
+        "8184795314",
+        "8184795315",
+        "8184795316"
+      ],
+      "whatsapp": [
+        "8180331430",
+        "8180645701",
+        "8117799716"
+      ],
+      "hours": "Lunes a viernes 9:00 a.m. a 6:00 p.m.; sábados 9:00 a.m. a 1:00 p.m.",
+      "latitude": null,
+      "longitude": null,
+      "google_maps_url": null
+    },
+    {
+      "branch_name": "CEDIS Diego Díaz",
+      "address_full": "Avenida Diego Díaz de Berlanga 1941, Colonia Fomerrey 118, San Nicolás de los Garza, Nuevo León. C.P. 66449",
+      "street": "Avenida Diego Díaz de Berlanga",
+      "number_ext": "1941",
+      "colonia": "Fomerrey 118",
+      "city": "San Nicolás de los Garza",
+      "state": "Nuevo León",
+      "postal_code": "66449",
+      "phone": [
+        "8110958239",
+        "8180309000",
+        "8184795313",
+        "8184795314",
+        "8184795315",
+        "8184795316",
+        "8112328261",
+        "8112918545",
+        "8112918528",
+        "8112918586"
+      ],
+      "whatsapp": [],
+      "hours": "Lunes a viernes 9:00 a.m. a 6:00 p.m.; sábados 9:00 a.m. a 1:00 p.m.",
+      "latitude": null,
+      "longitude": null,
+      "google_maps_url": null
+    }
+  ],
+  "seo": {
+    "h1": "Diesel International: refacciones diesel en San Nicolás de los Garza",
+    "title": "Diesel International en San Nicolás de los Garza | Refacciones diesel en Nuevo León",
+    "meta_description": "Diesel International ofrece refacciones diesel, accesorios para motores, atención por WhatsApp y sucursales en Las Puentes y Diego Díaz, San Nicolás de los Garza, Nuevo León.",
+    "public_description": "Diesel International es una refaccionaria diesel en San Nicolás de los Garza, Nuevo León, especializada en refacciones y accesorios para motores a diesel, camiones de carga, camiones urbanos, camiones 3 1/2 y motores estacionarios. Cuenta con sucursal en Las Puentes y CEDIS en Diego Díaz de Berlanga, además de atención por teléfono y WhatsApp para cotizaciones.",
+    "ctas": [
+      "Cotizar por WhatsApp",
+      "Llamar a Diesel International",
+      "Ver sucursales en San Nicolás",
+      "Visitar sitio web oficial"
+    ]
+  },
+  "verified_commercial_claims": [
+    "Especialistas en motores a diesel",
+    "Más de 20 años en el mercado",
+    "Distribuidor autorizado Automann",
+    "Refacciones y accesorios para motores a diesel",
+    "Atiende camiones 3 1/2, camiones urbanos y de personal, camiones de carga, motores estacionarios, plantas de luz y bombeo",
+    "Venta y reparación de motores 904, 906, 924 y 926",
+    "Reparación de turbos, compresores, embragues, cabezas, bombas de alta, alternadores, marchas y computadoras",
+    "Paquetería terrestre o aérea a cualquier lugar de la República"
+  ],
+  "missing_fields": [
+    "Coordenadas exactas por sucursal",
+    "Google Maps URL por sucursal",
+    "Logo oficial",
+    "Fotos reales",
+    "Marcas adicionales además de Automann",
+    "Productos prioritarios para SEO",
+    "Confirmar si CEDIS Diego Díaz atiende venta directa al público",
+    "Confirmar WhatsApp principal para CTA",
+    "Confirmar facturación, mayoreo, venta a flotillas o crédito empresarial",
+    "Confirmar cobertura de entregas",
+    "Redes sociales oficiales"
+  ]
+}
