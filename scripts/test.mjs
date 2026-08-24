@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { parse } from 'csv-parse/sync';
 
-const SITE_URL = 'https://rankearefaccionarias.info';
+const SITE_URL = 'https://www.rankearefaccionarias.info';
 const ROOT = process.cwd();
 const DATA_FILES = ['data_top100_url_validated.csv', 'data_nuevo_leon_top100.csv'].filter((file) => fs.existsSync(path.join(ROOT, file)));
 const MANUAL_LISTING_FILE = 'diesel-international-manual-listing.json';
