@@ -2,18 +2,5 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "nextjs",
   "installCommand": "npm ci",
-  "buildCommand": "npm run build",
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.rankearefaccionarias.info"
-        }
-      ],
-      "destination": "https://rankearefaccionarias.info/$1",
-      "permanent": true
-    }
-  ]
+  "buildCommand": "npm run build"
 }
