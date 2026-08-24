@@ -31,7 +31,7 @@ Resultado clave:
 - 99 fichas publicadas verificadas tras deduplicación.
 - URLs geo-first verificadas.
 - 99 URLs únicas.
-- Canónicas bajo `https://www.rankearefaccionarias.info`.
+- Canónicas bajo `https://rankearefaccionarias.info`.
 - Build generó 110 páginas estáticas.
 - Ficha de ejemplo generada: `/queretaro/queretaro/spr-autopartes-queretaro-251524/`.
 
