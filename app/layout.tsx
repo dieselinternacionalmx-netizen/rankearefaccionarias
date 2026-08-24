@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { Menu } from 'lucide-react';
 import Script from 'next/script';
 import './globals.css';
 
@@ -32,6 +33,18 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a href="/#ciudades">Ciudades</a>
             </nav>
             <a className="nav-cta" href="/#agregar">Agregar mi refaccionaria</a>
+            <details className="mobile-menu">
+              <summary aria-label="Abrir menú">
+                <Menu size={22} aria-hidden="true" />
+              </summary>
+              <div className="mobile-menu-panel">
+                <a href="/">Inicio</a>
+                <a href="/#refaccionarias">Refaccionarias</a>
+                <a href="/#estados">Estados</a>
+                <a href="/#ciudades">Ciudades</a>
+                <a href="/#agregar">Agregar mi refaccionaria</a>
+              </div>
+            </details>
           </div>
         </header>
         {children}
