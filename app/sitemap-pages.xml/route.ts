@@ -13,6 +13,7 @@ function escapeXml(value: string) {
 export function GET() {
   const urls = [
     `${siteUrl}/`,
+    `${siteUrl}/acerca-de/`,
     `${siteUrl}/refaccionarias/`,
     ...getStates().map((state) => `${siteUrl}/${state.slug}/`),
     ...getStates().flatMap((state) => getMunicipalities(state.slug).map((municipality) => `${siteUrl}/${state.slug}/${municipality.slug}/`)),
