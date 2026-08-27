@@ -14,6 +14,7 @@ export function GET() {
   const urls = [
     `${siteUrl}/`,
     `${siteUrl}/acerca-de/`,
+    `${siteUrl}/contacto/`,
     `${siteUrl}/refaccionarias/`,
     ...getStates().map((state) => `${siteUrl}/${state.slug}/`),
     ...getStates().flatMap((state) => getMunicipalities(state.slug).map((municipality) => `${siteUrl}/${state.slug}/${municipality.slug}/`)),

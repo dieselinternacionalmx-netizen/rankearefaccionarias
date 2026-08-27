@@ -6,6 +6,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     { url: `${siteUrl}/`, priority: 1 },
     { url: `${siteUrl}/acerca-de/`, priority: 0.7 },
+    { url: `${siteUrl}/contacto/`, priority: 0.65 },
     { url: `${siteUrl}/refaccionarias/`, priority: 0.9 },
     ...getStates().map((state) => ({ url: `${siteUrl}/${state.slug}/`, priority: 0.9 })),
     ...getStates().flatMap((state) => getMunicipalities(state.slug).map((municipality) => ({ url: `${siteUrl}/${state.slug}/${municipality.slug}/`, priority: 0.75 }))),

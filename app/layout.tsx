@@ -33,6 +33,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a href="/#estados">Estados</a>
               <a href="/#ciudades">Ciudades</a>
               <a href="/acerca-de/">Acerca de</a>
+              <a href="/contacto/">Contacto</a>
             </nav>
             <a className="nav-cta" href="/#agregar">Agregar mi refaccionaria</a>
             <details className="mobile-menu">
@@ -45,6 +46,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <a href="/#estados">Estados</a>
                 <a href="/#ciudades">Ciudades</a>
                 <a href="/acerca-de/">Acerca de</a>
+                <a href="/contacto/">Contacto</a>
                 <a href="/#agregar">Agregar mi refaccionaria</a>
               </div>
             </details>
@@ -69,7 +71,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div>
               <b>Información</b>
               <a href="/acerca-de/">Acerca de</a>
-              <a href="mailto:ventas@rankearefaccionarias.info">Contacto</a>
+              <a href="/contacto/">Contacto</a>
               <a href="/">Privacidad</a>
               <a href="/">Términos</a>
             </div>
